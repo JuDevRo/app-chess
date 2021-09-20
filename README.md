@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+This project is not finished, the movement of some pieces is missing and certain rules must be implemented
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
