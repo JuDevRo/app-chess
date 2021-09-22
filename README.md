@@ -1,3 +1,9 @@
+## Qué es el proyecto?
+Aquí desarrolle la logica de reglas y movimiento de un ajedrez con ReactJS, se pueden mejorar varias cosas como terminar el movimiento de algunas piezas y tambien se podria aplicar toda una interfaz para crear el juego y poder publicarlo, sin embargo mi idea del proyecto era ver si podia implementar la logica para poder mover piezas e implementar las reglas del ajedrez, cualquier colaboración es bienvenida
+
+Para instalar react:
+npx create-react-app "nombre del proyecto" --template typescript
+
 # Getting Started with Create React App
 
 This project is not finished, the movement of some pieces is missing and certain rules must be implemented
